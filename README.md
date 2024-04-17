@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello fellow data enthusiasts! 🚀 
 
 I'm **Gia Bach Nguyen**, a fervent explorer navigating the realm of data analytics. Armed with an MS in Applied Data Analytics, I'm on a mission to decode the mysteries hidden within datasets. My passion and specialties lie in regression, SVM, and classification methods. I'm also proficient in other data visualization tools, including Python, R, and Plotly Dashboard.
